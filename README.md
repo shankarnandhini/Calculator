@@ -26,6 +26,10 @@ To use the calculator, simply enter numbers and operations using the buttons pro
 - **CSS**: Styles the calculator with a modern look and feel.
 - **JavaScript**: Implements the functionality of the calculator.
 
+## Live Demo
+
+Check out the live demo of the calculator [here](https://shankarnandhini.github.io/Calculator/).
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
